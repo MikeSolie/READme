@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Wally747
-- 👀 I’m interested in Cybersecurity and Web Development
-- 🌱 I’m currently learning Cybersecurity at Champlain College, Hack the Box, and TryHackMe.  I am also going working on the Full-Stack Engineer certificate on Codecademy.
+- 👋 Hi, I’m Mike!
+- 👀 I’m interested in Cybersecurity, Python, and Raspberry Pi Projects
+- 🌱 I’m currently learning Cybersecurity at Champlain College and TryHackMe. I'm also learning Python via Codecademy and practice. 
 - 💞️ I’m looking to collaborate on ...  Anything relevant to the topics that I am currently working on.
 - 📫 How to reach me My email is mikesolie20@gmail.com
 
